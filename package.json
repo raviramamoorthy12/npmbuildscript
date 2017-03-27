@@ -1,0 +1,24 @@
+{
+  "name": "npmbuildscript",
+  "version": "1.0.0",
+  "description": "Learn npm for javascript build script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviramamoorthy12/npmbuildscript.git"
+  },
+  "keywords": [
+    "npm",
+    "javascriptbuild",
+    "script"
+  ],
+  "author": "Ravi Ramamoorthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviramamoorthy12/npmbuildscript/issues"
+  },
+  "homepage": "https://github.com/raviramamoorthy12/npmbuildscript#readme"
+}
